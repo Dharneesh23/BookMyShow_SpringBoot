@@ -31,8 +31,6 @@ A simplified backend clone of BookMyShow developed using **Spring Boot**. This p
 
 ## 📁 Project Structure
 
-![BookMyShow - spring excalidraw](https://github.com/user-attachments/assets/9940f1bb-b8d9-490f-affc-d0579cb18769)
-
 ✅ Sample APIs (Postman Collection)
 You can create a Postman collection or import JSON to test endpoints easily.
 
